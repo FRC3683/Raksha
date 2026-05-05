@@ -1,0 +1,98 @@
+[
+  {
+    "name": "/Preferences/swerve_optimization",
+    "type": "boolean",
+    "value": true,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/skew_correction_sc",
+    "type": "double",
+    "value": 0.0,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/wheel_calibration",
+    "type": "double",
+    "value": 1.0,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/intake_assist",
+    "type": "boolean",
+    "value": true,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/drive_speed",
+    "type": "double",
+    "value": 10.0,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/torque_limit_tele",
+    "type": "double",
+    "value": 0.7,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/turn_speed",
+    "type": "double",
+    "value": 6.7,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/UPTIME_AUTO_PRACTICE",
+    "type": "double",
+    "value": 22.000000000000043,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/UPTIME_TELE_PRACTICE",
+    "type": "double",
+    "value": 125.49999999999714,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/UPTIME_COMP_FMS",
+    "type": "double",
+    "value": 0.5,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/strafe_input_shaping",
+    "type": "string",
+    "value": "linear",
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/turn_input_shaping",
+    "type": "string",
+    "value": "linear",
+    "properties": {
+      "persistent": true
+    }
+  }
+]
